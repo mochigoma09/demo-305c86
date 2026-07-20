@@ -1,2 +1,3 @@
 # demo-305c86
-Auto generated demo site for なかね動物病院
+
+AIによって自動生成された なかね動物病院 様向けのデモサイトです。
